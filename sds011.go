@@ -1,5 +1,6 @@
 // Package sds011 reads measurements from the SDS011 particulate matter sensor.
 // Datasheet: https://www-sd-nf.oss-cn-beijing.aliyuncs.com/%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD/SDS011%20laser%20PM2.5%20sensor%20specification-V1.4.pdf
+// Communication protocol spec: https://www.tinytronics.nl/shop/index.php?route=product/attachmanager/getfile&product_attach_file_id=1266
 package sds011
 
 import (
